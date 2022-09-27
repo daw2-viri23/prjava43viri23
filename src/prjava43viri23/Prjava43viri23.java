@@ -1,7 +1,7 @@
 package prjava43viri23; 
 import java.awt.*;        // using AWT containers and components 
 import java.awt.event.*;  // using AWT events and listener interfaces 
-import java.text.*;
+import java.sql.*;
 import java.io.*;
 
 
