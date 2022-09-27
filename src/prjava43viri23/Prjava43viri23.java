@@ -1,7 +1,7 @@
 package prjava43viri23; 
 import java.awt.*;        // using AWT containers and components 
 import java.awt.event.*;  // using AWT events and listener interfaces 
-import java.net.*;
+import java.io.*;
  
 // An AWT GUI program inherits the top-level container java.awt.Frame 
 public class Prjava43viri23 extends Frame 
@@ -33,8 +33,8 @@ public class Prjava43viri23 extends Frame
         // "this" Frame fires WindowEvent its registered WindowEvent listener 
         // "this" Frame adds "this" object as a WindowEvent listener 
  
-      setTitle("prjava43viri23");  // "this" Frame sets title 
-      setSize(250, 100);        // "this" Frame sets initial size 
+      setTitle("nova finestra prjava43viri23");
+      setSize(450, 100);
       setVisible(true);         // "this" Frame shows 
    } 
  
